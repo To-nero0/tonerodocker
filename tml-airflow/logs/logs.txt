@@ -8261,3 +8261,4 @@ Already up to date.
 [INFO 2024-10-17_20:33:58] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-nnemoma_ML-efe0.py
 [INFO 2024-10-17_20:34:26] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-nnemoma_ML-efe0.py
 [INFO 2024-10-17_20:36:44] Visualization DAG in tml_system_step_7_kafka_visualization_dag-nnemoma_ML-efe0.py
+[INFO 2024-10-17_20:40:21] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-nnemoma_ML-efe0.py
