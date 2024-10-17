@@ -8258,3 +8258,4 @@ Already up to date.
 [INFO 2024-10-17_20:19:02] TML Solution Studio: git add . Status: 
 [INFO 2024-10-17_20:19:02] TML Solution Studio: git commit -a Status for project nnemoma_ML-efe0: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-10-17_20:19:03] TML Solution Studio: git push Status for project nnemoma_ML-efe0: Everything up-to-date
+[INFO 2024-10-17_20:33:58] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-nnemoma_ML-efe0.py
